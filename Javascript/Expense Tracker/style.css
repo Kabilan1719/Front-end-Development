@@ -49,3 +49,13 @@
     display: flex;
     justify-content: space-between;
 }
+
+#chartSection {
+    width: 400px;
+    margin: 20px auto; /* center align */
+}
+
+#expenseChart {
+    width: 100% !important;
+    height: 300px !important;
+}
